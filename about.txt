@@ -1,0 +1,3 @@
+* This game is build on the Unity Platform and is coded using C#
+* This game is fully inspired by the game Super Mario Bros 
+* This game does not include any copyrighted or licenced themes or assests 
